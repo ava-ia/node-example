@@ -1,0 +1,12 @@
+{
+
+  "alchemy": {
+    "url": "https://gateway-a.watsonplatform.net/calls",
+    "apikey": "your_key"
+  },
+
+  "themoviedb": {
+    "url": "https://api.themoviedb.org/",
+    "apikey": "your_key"
+  }
+}

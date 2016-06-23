@@ -1,0 +1,39 @@
+{
+  "name": "ava-ia-node-example",
+  "description": "Agnostic virtual assistant",
+  "version": "0.0.17",
+  "main": "./index.js",
+  "homepage": "",
+  "author": {
+    "name": "AVAia Team",
+    "url": "http://github.com/ava-ia"
+  },
+  "contributors": [
+    {
+      "name": "Javi Jimenez Villar",
+      "email": "soyjavi@protonmail.com",
+      "url": "http://soyjavi.com/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ava-ia/node-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ava-ia/node-example/issues"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ava-ia": "^0.0.17",
+    "babel-cli": "^6.10.1",
+    "babel-core": "^6.9.0",
+    "babel-polyfill": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-register": "^6.9.0",
+    "colors": "^1.1.2"
+  }
+}
